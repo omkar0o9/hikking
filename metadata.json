@@ -1,0 +1,7 @@
+{
+  "name": "Alpine Trek Live Tracker",
+  "description": "A high-performance GPS trekking application featuring live topographic mapping, real-time biometric and trail stats, and an AI-powered trail guide for safety and performance insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
